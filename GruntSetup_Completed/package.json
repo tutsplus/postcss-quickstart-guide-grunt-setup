@@ -1,0 +1,14 @@
+{
+  "name": "postcssviagrunt",
+  "version": "1.0.0",
+  "description": "Basic PostCSS setup using Grunt",
+  "author": "Kezz Bracey",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^5.2.0",
+    "cssnext": "^1.8.2",
+    "grunt": "^0.4.5",
+    "grunt-postcss": "^0.5.5",
+    "precss": "^0.3.0"
+  }
+}
